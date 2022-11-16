@@ -34,7 +34,7 @@ use FacebookAds\Object\AdsPixel;
  *
  * @category    Class
  */
-class EventRequest implements ArrayAccess {
+class EventRequest {
   /**
    * Array of property to type mappings. Used for (de)serialization
    * @var string[]

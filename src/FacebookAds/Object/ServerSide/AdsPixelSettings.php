@@ -30,7 +30,7 @@ use FacebookAds\Exception\Exception;
 
 use ArrayAccess;
 
-class AdsPixelSettings implements ArrayAccess {
+class AdsPixelSettings {
 
   /**
    * @var string

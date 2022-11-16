@@ -31,7 +31,7 @@ use ArrayAccess;
  *
  * @category    Class
  */
-class UserData implements ArrayAccess {
+class UserData {
   /**
    * The original name of the model.
    * @var string

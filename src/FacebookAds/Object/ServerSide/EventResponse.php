@@ -31,7 +31,7 @@ use ArrayAccess;
  *
  * @category    Class
  */
-class EventResponse implements ArrayAccess {
+class EventResponse {
 
   /**
    * Array of property to type mappings. Used for (de)serialization

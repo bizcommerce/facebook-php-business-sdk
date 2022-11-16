@@ -28,7 +28,7 @@ use ArrayAccess;
 use InvalidArgumentException;
 
 
-class CustomData implements ArrayAccess {
+class CustomData {
 
   /**
    * Array of property to type mappings. Used for (de)serialization

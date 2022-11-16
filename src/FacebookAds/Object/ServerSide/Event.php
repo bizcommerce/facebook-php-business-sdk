@@ -32,7 +32,7 @@ use ArrayAccess;
  * @category    Class
  * @package     FacebookAds\Object\ServerSide
  */
-class Event implements ArrayAccess {
+class Event {
   /**
    * Array of property to type mappings. Used for (de)serialization
    * @var string[]

@@ -26,7 +26,7 @@ namespace FacebookAds\Object\ServerSide;
 
 use ArrayAccess;
 
-class Content implements ArrayAccess {
+class Content {
   /**
    * Associative array for storing property values
    * @var mixed[]
